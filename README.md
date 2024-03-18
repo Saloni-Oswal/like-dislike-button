@@ -76,12 +76,14 @@ Requirements:
 The content of the like button should be in the following format: "Like | 100", where 100 is the total number of likes.
 It should have a "like-button" class.
 Wrap the number of likes in a span with a "likes-counter" class.
-The initial number of likes in the counter should be 100. 2. Users can add a like. By clicking the button:
+The initial number of likes in the counter should be 100.
 
-2. The number of likes should increase by one.
-   Like button should have "liked" class in addition to the "like-button" class (you can use the classnames tool for that). 3. Users can undo their like by clicking again on the button:
+2. Users can add a like. By clicking the button:
 
-3. The counter should decrease by one.
+The number of likes should increase by one.
+Like button should have "liked" class in addition to the "like-button" class (you can use the classnames tool for that).
+
+3. Users can undo their like by clicking again on the button. The counter should decrease by one.
    "liked" class should be removed.
 
 Assessment/Tools:
