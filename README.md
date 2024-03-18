@@ -78,11 +78,12 @@ It should have a "like-button" class.
 Wrap the number of likes in a span with a "likes-counter" class.
 The initial number of likes in the counter should be 100. 2. Users can add a like. By clicking the button:
 
-The number of likes should increase by one.
-Like button should have "liked" class in addition to the "like-button" class (you can use the classnames tool for that). 3. Users can undo their like by clicking again on the button:
+2. The number of likes should increase by one.
+   Like button should have "liked" class in addition to the "like-button" class (you can use the classnames tool for that). 3. Users can undo their like by clicking again on the button:
 
-The counter should decrease by one.
-"liked" class should be removed.
+3. The counter should decrease by one.
+   "liked" class should be removed.
+
 Assessment/Tools:
 Only two imports are allowed: react (v16.8.6) and classnames (v2.2.5). Both are at the top of the starting code.
 Use the animation below as a reference for your solution.
